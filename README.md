@@ -1,1 +1,1 @@
-# ptrngyn.github.io
+# Data Science Undergraduate
